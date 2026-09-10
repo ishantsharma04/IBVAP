@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "ENT-002",
+    "name": "Demo Vehicle 01",
+    "category": "VEHICLE_WATCHLIST",
+    "type": "VEHICLE",
+    "identifier": "",
+    "plate": "DEMO1234",
+    "status": "ACTIVE",
+    "description": "Synthetic SIH demonstration vehicle"
+  },
+  {
+    "entity_id": "ENT-003",
+    "name": "Authorized Personnel 01",
+    "category": "AUTHORIZED",
+    "type": "PERSON",
+    "identifier": "DEMO-AUTH-001",
+    "plate": "",
+    "status": "ACTIVE",
+    "description": "Synthetic authorized personnel record"
+  }
+]
