@@ -204,5 +204,5 @@ def clear(): events.clear(); return jsonify({"ok":True})
 import os
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
